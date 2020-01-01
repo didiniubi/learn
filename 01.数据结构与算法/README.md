@@ -117,4 +117,13 @@
     单重循环的时间复杂度为O(n)，也叫线性阶。   
     对于没有循环语句的算法，记作O(1)，也称为常数阶   
 
-    所以算法的设计尤为关键
+    所以算法的设计尤为关键。
+
+
+
+
+
+## 优秀博文
+
+<a href="https://juejin.im/post/5d5b307b5188253da24d3cd1">前端该如何准备数据结构和算法</a>   
+<a href="https://juejin.im/post/5cd1ab3df265da03587c142a?utm_source=gold_browser_extension#heading-7">窥探数据结构的世界</a>
